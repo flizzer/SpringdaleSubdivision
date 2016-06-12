@@ -1,3 +1,3 @@
 # SpringdaleSubdivision
 
-Code repository for Springdale Subdivision community website.
+Springdale Subdivision community website.
